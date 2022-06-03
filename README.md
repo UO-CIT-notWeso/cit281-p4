@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to my Project 4 page.
 
-You can use the [editor on GitHub](https://github.com/notWeso/cit281-p4/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Project 4 consists of:
+- Creating a REST API that works with a "data" source of questions and answers. Creating all of the code to work with the data source using a code module, and test the code module code using provided testing code. Also creating a Node.js REST API to handle the GET verb.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/notWeso/cit281-p4/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## What I learned:
+- Gained experience interpreting functional descriptions and specifications to complete an assignment
+- Gained experience breaking a project into manageable components
+- Gained experience writing and executing non-web server Node.js JavaScript code using VSCode
+- Practiced creating and using code modules
+- Practiced using modern JavaScript syntax
+- Gained experience writing and executing Node.js REST API server using VSCode
+- Gained experience using Fastify with the GET verb, routes, and route parameters
+- Gained experience working with static data
+- Gained experience testing code module without using a web server
+- Gained experience using Postman to test web server routes
+- Gained experience working with JSON
